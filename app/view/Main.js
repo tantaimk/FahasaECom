@@ -22,7 +22,7 @@ Ext.define('FahasaECom.view.Main', {
                     title: 'Welcome to Sencha Touch 2'
                 },
 
-                html: "The Anh"
+                html: "Nguyen Tan Tai"
             },
             {
                 title: 'Get Started',
